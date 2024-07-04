@@ -59,3 +59,9 @@ This project demonstrates the implementation of MLOps (Machine Learning Operatio
 - [GitHub Account](https://github.com)
 - [Azure Account](https://azure.microsoft.com/en-us)
 - [VS Code IDE](https://code.visualstudio.com)
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ayushguha-31/mlproject.git
+    cd ml-project
