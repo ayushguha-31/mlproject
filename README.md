@@ -54,7 +54,7 @@ This project demonstrates the implementation of MLOps (Machine Learning Operatio
 ```
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 - [Docker](https://www.docker.com)
 - [GitHub Account](https://github.com)
 - [Azure Account](https://azure.microsoft.com/en-us)
